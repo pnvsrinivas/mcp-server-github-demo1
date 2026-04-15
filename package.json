@@ -1,0 +1,19 @@
+{
+  "name": "mcp-server-github-demo1",
+  "version": "1.0.0",
+  "description": "MCP Server for GitHub API integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["mcp", "github", "api"],
+  "author": "pnvsrinivas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
